@@ -9,4 +9,6 @@ langchain-community
 langchain-tavily
 langchain-google-genai
 ipykernel
+langchain-core
+
 

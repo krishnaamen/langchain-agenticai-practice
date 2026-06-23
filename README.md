@@ -2,9 +2,6 @@
 
 A comprehensive guide to learning **LangChain** from scratch, covering fundamental concepts to building intelligent agents with multiple tools.
 
-> **Status**: Currently at 1 hour 52 minutes of the tutorial series  
-> **Last Updated**: June 2026
-
 ---
 
 ## 📋 Table of Contents
@@ -432,7 +429,7 @@ If you reference this learning project, please cite:
   title={LangChain Learning Journey},
   author={Your Name},
   year={2026},
-  url={https://github.com/yourusername/langchain-learning}
+  url={https://github.com/krishnaamen/langchain-agenticai-practice}
 }
 ```
 
